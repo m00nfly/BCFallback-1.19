@@ -12,10 +12,10 @@ BCFallback 是一个为 BungeeCord 编写的增强插件，原本只是为了在
 ### 效果
 
 禁止非法域名访问
+![](./img/LoginDomainCheck.png)
 
 子服被踢自动传回大厅
-
-
+![](./img/TptoLobby.png)
 
 ### TODO
 
@@ -25,7 +25,7 @@ BCFallback 是一个为 BungeeCord 编写的增强插件，原本只是为了在
 
 ### 感谢
 
-   本插件是我初学 java 的第一个入门练手项目，感谢 bungeecord 的开发者提供了优秀的 API 才得以让本人的第一个 java 项目得以实现；
+本插件是我初学 java 的第一个入门练手项目，感谢 bungeecord 的开发者提供了优秀的 API 才得以让本人的第一个 java 项目得以实现；
 
 [BungeeCord API](https://github.com/SpigotMC/BungeeCord)
 
