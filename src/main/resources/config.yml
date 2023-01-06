@@ -1,0 +1,18 @@
+#系统传送玩家到 FallBack 子服后，是否立即发送通知给玩家
+isNotify: true
+
+#是否要将源服务器 Kick 玩家的原因包含在通知内容中返回给客户端
+isReson: true
+
+#要将玩家传送到的目的子服名称，必须与 BungeeCord 配置文件中定义的 Server 名称一致
+targetServer: "1.17生存服"
+
+checkDomain:
+  #是否开启BC登录域名校验
+  enable: false
+  #合法的登录域名或IP地址
+  domain:
+    - mc.moonfly.net
+    - mcje.moonfly.net
+    - 192.168.10.50
+  kickMsg: "BLOCK CONNECTION: Invalid domain name!"

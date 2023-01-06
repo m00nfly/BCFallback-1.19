@@ -1,0 +1,5 @@
+name: BCFallback
+author: m00nfly
+version: '${project.version}'
+main: net.moonfly.bcfallback.BCFallback
+description: 一个BC增强插件，域名校验，子服断线自动传送大厅等
